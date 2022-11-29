@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ari Putra Utama</string>
+    <string name="texthello">Hello Dunia</string>
+    <string name="textButton">Ganti Teks Random</string>
+    <string name="namaku">Ari Putra Utama</string>
+
+    <string name="pindahbutton">pindah ke halaman Movies</string>
+    <string name="api_key">2c4b5c9b12e7a1db6242337110576436</string>
+</resources>
